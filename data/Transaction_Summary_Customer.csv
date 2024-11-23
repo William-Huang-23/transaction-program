@@ -1,0 +1,2 @@
+customerId,transactionType,tranDate,totalDebit,totalCredit,totalAmount
+111002,Credit Card,2023-10-10,1.46E7,1.4692E7,-92000.0
